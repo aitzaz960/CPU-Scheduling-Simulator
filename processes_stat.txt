@@ -1,0 +1,22 @@
+We received following Proc in the exit state 
+Recieved Proc = Proc2
+Algorithm Name = FCFS
+Arrival Time = 1
+Burst Time = 3
+Waiting Time = 0
+Turnaround Time = 3
+We received following Proc in the exit state 
+Recieved Proc = Proc1
+Algorithm Name = FCFS
+Arrival Time = 1
+Burst Time = 5
+Waiting Time = 4
+Turnaround Time = 9
+We received following Proc in the exit state 
+Recieved Proc = Proc3
+Algorithm Name = FCFS
+Arrival Time = 4
+Burst Time = 2
+Waiting Time = 8
+Turnaround Time = 10
+Throughput = 22------------- Avg waiting time = 4----------------avg TAT = 7 at seconds=30

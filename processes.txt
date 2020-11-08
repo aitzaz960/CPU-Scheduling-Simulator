@@ -1,0 +1,10 @@
+FCFS
+Proc1
+1
+5
+Proc2
+1
+3
+Proc3
+4
+2
